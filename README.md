@@ -19,7 +19,7 @@ a transaction that is pending to be sent to the blockchain.
 
 ## Index of contents
 
-- [Docs](https://docs.gnosis.io/safe/docs/services_transactions/)
+- [Docs](https://docs.gnosis-safe.io/backend/service-architecture)
 
 ## Setup for development
 Use a virtualenv if possible:
